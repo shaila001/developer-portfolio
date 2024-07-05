@@ -185,5 +185,21 @@ border: 0;
 width: 100%;
   }
 
+
+  /* responsive styles */
+/* .hide{
+  display: none;
+}
+  /* mobile device */
+  @media screen  and (max-width:576px) {
+    .skills-container, .resume-container{
+      flex-direction: column;
+    }
+  }
+  #what--do-description{
+    padding: 20px;
+  } */
+
+
  
   
